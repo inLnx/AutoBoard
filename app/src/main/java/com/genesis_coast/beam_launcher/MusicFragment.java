@@ -1,5 +1,5 @@
 package com.genesis_coast.beam_launcher;
-
+//gets frameworks
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
