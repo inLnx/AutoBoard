@@ -4,8 +4,8 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "com.genesis_coast.beam_launcher"
-        minSdkVersion 24
-        targetSdkVersion 27
+        minSdkVersion 23
+        targetSdkVersion 27=9
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
